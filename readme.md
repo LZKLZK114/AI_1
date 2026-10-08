@@ -1,1 +1,3 @@
 aloha
+
+I've learned how to install git in local CLI, clone a Github repo, create a new file, add, commit and push. Also I've leanred how to create a new branch and switch between these branches. I learned how to use huggingface to run a model such as ResNet and run an inference on MNIST dataset and record the accuracy. Also I know how to merge and how to solve the conflict. I also learned how to revisit the history commit and checkout back.  
